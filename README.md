@@ -22,4 +22,4 @@ MIT
 
 ## Deployed Applications
 [Github Repo](https://github.com/Ale-Miret/challenge-2)                                                                                                                                                                                              
-[Deployed Page]()
+[Deployed Page](https://ale-miret.github.io/challenge-2/)
