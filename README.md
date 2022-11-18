@@ -21,5 +21,5 @@ To use the webpage, enter url into search bar on browser, and a webpage portfoli
 MIT
 
 ## Deployed Applications
-[Github Repo](https://github.com/Ale-Miret/challenge-2)                                                                                                                                                                                              
+[Github Repo](https://github.com/Ale-Miret challenge-2)                                                                                                                                                                                              
 [Deployed Page](https://ale-miret.github.io/challenge-2/)

@@ -221,8 +221,8 @@ span {
 }
 
 /* work images */
-.greenthumb-app {
-    background-image: url(https://images.pexels.com/photos/1495160/pexels-photo-1495160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+.media-search {
+    background-image: url(./images/Movie\ search\ image.png);
     background-size: cover;
     background-repeat: no-repeat;
     color: var(--secondary);
