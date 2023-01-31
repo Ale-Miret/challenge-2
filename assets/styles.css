@@ -5,20 +5,20 @@
 /* color palette */
 :root {
     --primary: rgb(241, 241, 241);
-    --secondary: rgb(216,191,216);
-    --tertiary:  rgba(80, 71, 85, 0.616);
+    --secondary: rgb(216, 191, 216);
+    --tertiary: rgba(80, 71, 85, 0.616);
     --dark: rgba(28, 29, 33, 1);
     --light: rgba(238, 238, 247, 1);
 }
 
 /* background image */
 html {
-        background: url(https://images.pexels.com/photos/1629236/pexels-photo-1629236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) no-repeat center center fixed; 
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
-      }
+    background: url(https://images.pexels.com/photos/1629236/pexels-photo-1629236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 
 
 /* body styling */
@@ -98,6 +98,7 @@ nav a:hover {
     align-items: flex-end;
     text-align: right;
 }
+
 /* text in hero banner */
 .hero-banner h2 {
     color: var(--primary);
@@ -229,13 +230,14 @@ span {
     text-shadow: 1px 1px 2px black, 0 0 25px white, 0 0 5px darkblue;
 }
 
-.alien-language-translator {
-    background-image: url(https://images.pexels.com/photos/2092075/pexels-photo-2092075.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+.rancid-banana {
+    background-image: url(./images/bananabackground.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     color: var(--secondary);
     text-shadow: 1px 1px 2px black, 0 0 25px white, 0 0 5px darkblue;
 }
+
 /* end of work images */
 
 
@@ -288,6 +290,7 @@ span {
     color: var(--secondary);
     box-shadow: inset 00 2px var(--secondary);
 }
+
 /* end of contact me */
 
 
